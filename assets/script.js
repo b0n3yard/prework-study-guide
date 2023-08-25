@@ -5,7 +5,7 @@ for(var i = 0; i < stuff.length; i++) {
 
 }
 let choice  = Math.floor(Math.random() * 4);
-console.log(choice);
+
 
 var topics = stuff[choice];
 function topicselect(){
