@@ -20,6 +20,7 @@ h2 { color:white;
 div {
         margin-height: 5px;
         border-style: solid;
+        border-color: blue;
         border width: 5px;
         border-radius: 10px;
         box-shadow: 3px 3px;S
